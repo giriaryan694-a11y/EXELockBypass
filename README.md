@@ -68,6 +68,16 @@ The author is **not responsible** for any misuse or damage caused by this tool.
 
 ---
 
+## 🛡️ Mitigation & Defense
+
+This project also includes a dedicated defensive research document:
+
+* 👉 **[Mitigation & Defensive Guidance](mitigation.md)** — explains how to detect, prevent, and harden systems against the compatibility-layer technique demonstrated in this tool.
+
+The mitigation content is written from a **blue-team and SOC perspective** and is safe for enterprise and educational environments.
+
+---
+
 ## 📜 License
 
 This project is open-source and released under the **MIT License**.
